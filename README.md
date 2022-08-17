@@ -33,12 +33,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live URL on [CodeSanbox.io](https://codesandbox.io/s/advice-generator-kstdo5)
 
 ## My process
 
-\*Since this was a pretty basic project, I just used React without needing any additonal libraries outside of styling.
+_Since this was a pretty basic project, I just used React without needing any additonal libraries outside of styling._
 
 ### Built with
 
@@ -47,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I did soem work with async/await for this project. I opted to use the `try`/`catch` pattern to fetch.
+I did some work with `async/await` for this project. I opted to use the `try`/`catch` pattern to fetch.
 
 ```js
 const [slip, setSlip] = useState(initialState);
